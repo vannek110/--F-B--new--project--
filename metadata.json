@@ -1,0 +1,7 @@
+{
+  "name": "KitchenFlow B2B Procurement",
+  "description": "A high-performance, mobile-first F&B procurement platform for restaurants to order supplies, chat with vendors, and manage goods receiving.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
